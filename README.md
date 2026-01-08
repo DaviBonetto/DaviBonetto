@@ -1,13 +1,9 @@
 <div align="center">
 
-<!-- HEADER ANIMADO -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Davi+Bonetto+%F0%9F%91%8B;AI+Builder+%7C+Open+Source+Enthusiast;Building+Intelligent+Systems;Learning+%26+Shipping+in+Public+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- HEADER PROFISSIONAL -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00D4FF&height=200&section=header&text=Davi%20Bonetto&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Builder%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Davi%20Bonetto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-**AI Builder • Aspiring Founder • Open Source Contributor**
-
-Building intelligent systems and learning in public 🚀
+**Building intelligent systems and learning in public** 🚀
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-bonetto-a4a795350/">
@@ -15,6 +11,9 @@ Building intelligent systems and learning in public 🚀
   </a>
   <a href="https://x.com/DaviB73098">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://leetcode.com/u/Neoqx/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="mailto:davi.bonetto100@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -24,44 +23,49 @@ Building intelligent systems and learning in public 🚀
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=DaviBonetto&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=DaviBonetto&style=for-the-badge&color=0A66C2" alt="Profile Views"/>
 
 </div>
 
 ---
 
 ## 🚀 About Me
-```yaml
-name: Davi Bonetto
-located_in: Vinhedo, São Paulo, Brazil
-age: 15
-current_focus: Building AI systems and learning in public
-education: Stanford CS Graduate-Level Coursework (Self-Directed)
 
-roles:
-  - AI Researcher & Builder
-  - Open Source Contributor
-  - Aspiring Founder
-  
-interests:
-  - Machine Learning & Deep Learning
-  - Natural Language Processing
-  - Reinforcement Learning
-  - Developer Tools & Chrome Extensions
-  - Building in Public
-```
+<table>
+<tr>
+<td width="50%">
 
-### 🔬 What I'm Building
+**👨‍💻 Who I Am**
 
-- 🤖 **AI Systems**: Implementing ML/DL/NLP/RL algorithms from first principles
-- 🌐 **Open Source**: Contributing to FreeCodeCamp and building public projects
-- 🛠️ **Developer Tools**: Chrome extensions, Claude Code extensions
-- 📚 **Community**: Creating ML/DL learning communities
-- 🔥 **Daily Coding**: Committed to shipping code every single day in 2026
+I'm a **15-year-old AI researcher and builder** passionate about creating intelligent systems that solve real problems. Currently deep-diving into Machine Learning, Deep Learning, NLP, and Reinforcement Learning while building open-source projects.
 
-### 📝 Published Research
+**🎯 What I Do**
+- 🔬 Research & implement AI algorithms from first principles
+- 🛠️ Build developer tools, Chrome extensions, and AI applications
+- 🤝 Contribute to open source projects like FreeCodeCamp
+- 📝 Share learnings and build in public
+- 🌱 Self-study through Stanford graduate-level CS coursework
 
-- **Ethics of AI in Education** - Scientific article published through [AIEOU](https://aieou.com) exploring ethical implications of AI systems in educational contexts
+</td>
+<td width="50%">
+
+**📊 Quick Facts**
+
+- 📍 **Location:** Vinhedo, São Paulo, Brazil
+- 🎂 **Age:** 15
+- 🔭 **Current Focus:** Building AI systems daily
+- 📚 **Learning:** CS229, CS230, CS224N, CS234, CS221, CS336
+- 🎯 **2026 Goal:** Code every single day
+- 📝 **Published:** Scientific article on Ethics of AI in Education
+
+**🎨 Roles**
+- AI Researcher & Builder
+- Open Source Contributor  
+- Aspiring Founder
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,14 +106,14 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DaviBonetto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviBonetto&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DaviBonetto&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0A66C2&icon_color=00D4FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviBonetto&theme=react&hide_border=true&background=0D1117&stroke=0A66C2&ring=00D4FF&fire=00D4FF&currStreakLabel=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBonetto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=DaviBonetto&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBonetto&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=DaviBonetto&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
 <!-- Activity Graph -->
-[![Davi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviBonetto&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Davi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviBonetto&custom_title=Contribution%20Activity&bg_color=0D1117&color=0A66C2&line=00D4FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -120,68 +124,135 @@ interests:
 <div align="center">
 
 <a href="https://github.com/DaviBonetto/ai-foundations-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaviBonetto&repo=ai-foundations-lab&theme=tokyonight&hide_border=true" />
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=DaviBonetto&repo=ai-foundations-lab&theme=react&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=00D4FF&text_color=FFFFFF" />
 </a>
 
 </div>
 
-### 🤖 [AI Foundations Lab](https://github.com/DaviBonetto/ai-foundations-lab)
+<br>
+
+### 🤖 AI Foundations Lab
 
 A comprehensive self-directed learning journey through Machine Learning, Deep Learning, NLP, and Reinforcement Learning - built from first principles.
 
-**Highlights:**
-- 📚 **200+ hours** of structured self-study
-- 🔬 **20+ Jupyter notebooks** with implementations from scratch
-- 🧠 **4 Core Areas**: ML, DL, NLP, RL
-- 🎯 **Applied Projects**: GANs (synthetic image generation), YOLOv8 (real-time object detection)
-- 📖 **Comprehensive Documentation**: Detailed READMEs for each section
+<table>
+<tr>
+<td width="60%">
 
-**Tech Stack:** Python, PyTorch, NumPy, Matplotlib, Hugging Face Transformers
+**📚 What's Inside**
+- **200+ hours** of structured self-study
+- **20+ Jupyter notebooks** with from-scratch implementations
+- **4 Core Areas**: Machine Learning, Deep Learning, NLP, Reinforcement Learning
+- **Applied Projects**: GANs (synthetic image generation), YOLOv8 (real-time object detection)
+- **Comprehensive Documentation**: Detailed READMEs for each section with LaTeX equations
+
+</td>
+<td width="40%">
+
+**🛠️ Tech Stack**
+- Python
+- PyTorch
+- NumPy
+- Matplotlib
+- Hugging Face Transformers
+- OpenCV
+
+</td>
+</tr>
+</table>
+
+**[📖 Explore the Repository →](https://github.com/DaviBonetto/ai-foundations-lab)**
 
 ---
 
 ## 🎯 2026 Goals & Current Focus
-```python
-class DaviBonetto2026:
-    def __init__(self):
-        self.goals = {
-            "daily_coding": "Commit code every single day",
-            "open_source": "Contribute to 10+ projects",
-            "community": "Build ML/DL learning community",
-            "content": "Share learnings on X (Twitter) 3x/week",
-            "projects": [
-                "Chrome Extensions",
-                "Claude Code Extensions",
-                "AI-powered applications",
-                "Developer tools"
-            ]
-        }
-    
-    def get_current_focus(self):
-        return "Building, learning, and shipping in public 🚀"
-```
 
-**Focus Areas:**
-- 🔥 **Daily Commits**: Building the habit of consistent shipping
-- 🤝 **Open Source**: Contributing to FreeCodeCamp and community projects
-- 🌐 **Community Building**: Creating spaces for AI/ML learners
-- 📝 **Content Creation**: Sharing knowledge and learnings on X
-- 🛠️ **Product Development**: Browser extensions and developer tools
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Daily Commitments
+- ✅ **Code Every Day** - Building the shipping habit
+- ✅ **Open Source** - Contributing to 10+ projects
+- ✅ **Content Creation** - Sharing on X 3x/week
+- ✅ **Community Building** - ML/DL learning spaces
+
+</td>
+<td width="50%">
+
+### 🚀 Projects in Progress
+- **Chrome Extensions** - Developer productivity tools
+- **Claude Code Extensions** - AI-powered coding assistants
+- **AI Applications** - Real-world intelligent systems
+- **Learning Community** - Platform for AI/ML learners
+
+</td>
+</tr>
+</table>
+
+**Current Status:** Building, learning, and shipping in public 🚀
 
 ---
 
 ## 📚 Learning Journey
 
-Deeply engaged in self-directed learning through Stanford graduate-level coursework:
+Self-directed deep dive into AI through Stanford graduate-level coursework (publicly available materials):
 
-- **CS229**: Machine Learning - Supervised/unsupervised learning, learning theory
-- **CS230**: Deep Learning - Neural networks, CNNs, RNNs, optimization
-- **CS224N**: Natural Language Processing - Transformers, attention, language models
-- **CS234**: Reinforcement Learning - MDPs, Q-learning, policy gradients
-- **CS221**: AI Principles and Techniques - Search, reasoning, learning
-- **CS336**: Language Models - Transformer architecture, LLM foundations
+<table>
+<tr>
+<td width="33%">
 
-*All learning done through publicly available course materials, with hands-on implementations and projects.*
+**🤖 Machine Learning**
+- **CS229**: Supervised/unsupervised learning
+- **CS221**: AI principles and techniques
+
+</td>
+<td width="33%">
+
+**🧠 Deep Learning**
+- **CS230**: Neural networks, CNNs, RNNs
+- **CS231n**: Computer vision
+
+</td>
+<td width="33%">
+
+**💬 NLP & Advanced**
+- **CS224N**: Transformers, attention
+- **CS234**: Reinforcement learning
+- **CS336**: Language models
+
+</td>
+</tr>
+</table>
+
+*All implementations and projects documented in my repositories*
+
+---
+
+## 🏆 Achievements & Recognition
+
+<table>
+<tr>
+<td width="50%">
+
+### 🥇 Academic Olympiads
+- **Gold Medal** - Brazilian Linguistics and English Olympiad (OBLI)
+- **Gold Medal** - Brazilian Financial Mathematics Olympiad (OBMF)
+- **Silver Medal** - Brazilian Geography Olympiad (OBGP)
+- **Bronze Medal** - Brazilian Portuguese Tournament (TOP)
+
+</td>
+<td width="50%">
+
+### 🤖 AI & STEM Competitions
+- **2nd Phase Qualifier** - Brazilian National AI Olympiad (ONIA) | IOAI Selection
+- **Top Solution** - International Youth Math Challenge (IYMC) | LaTeX Excellence
+- **4th Place** - Brazilian Odyssey of Diplomacy & IR (USP LAD)
+- **Published Research** - Ethics of AI in Education (AIEOU)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -189,7 +260,7 @@ Deeply engaged in self-directed learning through Stanford graduate-level coursew
 
 <div align="center">
 
-I'm always open to collaborating on interesting AI projects, discussing new ideas, or contributing to open source. Feel free to reach out!
+I'm always open to collaborating on interesting AI projects, discussing new ideas, or contributing to open source.
 
 **"Building the future, one commit at a time."** 🚀
 
@@ -200,11 +271,14 @@ I'm always open to collaborating on interesting AI projects, discussing new idea
   <a href="https://x.com/DaviB73098">
     <img src="https://img.shields.io/badge/-Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/Neoqx/">
+    <img src="https://img.shields.io/badge/-Solve_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
   <a href="mailto:davi.bonetto100@gmail.com">
     <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00D4FF&height=120&section=footer"/>
 
 </div>
