@@ -3,7 +3,7 @@
 <!-- HEADER PROFISSIONAL -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00D4FF&height=200&section=header&text=Davi%20Bonetto&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Builder%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
 
-**Building intelligent systems and learning in publi** 🚀
+**Building intelligent systems and learning in public** 🚀
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-bonetto-a4a795350/">
