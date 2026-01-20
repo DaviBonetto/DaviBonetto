@@ -37,7 +37,7 @@
 
 **👨‍💻 Who I Am**
 
-I'm a **15-year-old AI researcher and builde** passionate about creating intelligent systems that solve real problems. Currently deep-diving into Machine Learning, Deep Learning, NLP, and Reinforcement Learning while building open-source projects.
+I'm a **15-year-old AI researcher and builder** passionate about creating intelligent systems that solve real problems. Currently deep-diving into Machine Learning, Deep Learning, NLP, and Reinforcement Learning while building open-source projects.
 
 **🎯 What I Do**
 - 🔬 Research & implement AI algorithms from first principles
