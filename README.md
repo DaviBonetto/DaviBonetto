@@ -61,7 +61,7 @@ I'm a **15-year-old AI researcher and builder** passionate about creating intell
 **🎨 Roles**
 - AI Researcher & Builder
 - Open Source Contributor  
-- Aspiring Founde
+- Aspiring Founder
 
 </td>
 </tr>
