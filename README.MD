@@ -97,13 +97,12 @@ graph TD
 </td>
 <td width="45%" valign="top">
 
-### ⚡ Activity Pulse
+### 🔮 Spectral Vision
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviBonetto&bg_color=0D1117&color=00D4FF&line=0A66C2&point=FFFFFF&area=true&hide_border=true&hide_title=true" height="300" alt="Activity Graph" />
+<img src="./assets/spectral_ai_sidebar.png" width="100%" alt="Spectral Intelligence" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBonetto&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=00D4FF&text_color=FFFFFF" height="150" alt="top languages" />
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&background=0D111700&center=false&vCenter=true&width=435&lines=Architecting+Cognitive+Systems;Fine-tuning+Large+Language+Models;Building+Autonomous+Agents;Exploring+Neuromorphic+Computing" alt="Typing SVG" />
 
 </td>
 </tr>
