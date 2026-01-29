@@ -106,14 +106,24 @@ graph TD
 
 ---
 
-## 📚 Academic Roadmap
+## 🧬 Research Philosophy
 
-I am pursuing a self-directed, rigorous computer science curriculum based on Stanford graduate materials.
+```mermaid
+graph TD
+    subgraph S1 [The Cognitive Flywheel]
+    A[🔎 First Principles] -->|Deconstruction| B(🧠 Theoretical Model)
+    B -->|Synthesis| C{🧪 Rigorous Experimentation}
+    C -->|Validation| D[🚀 Scalable System]
+    D -->|Feedback| A
+    end
+    style S1 fill:#0D1117,stroke:#30363d,stroke-width:1px
+    style A fill:#0D1117,stroke:#00D4FF,stroke-width:2px,color:#fff
+    style B fill:#0D1117,stroke:#0A66C2,stroke-width:2px,color:#fff
+    style C fill:#0D1117,stroke:#A371F7,stroke-width:2px,color:#fff
+    style D fill:#0D1117,stroke:#2EA043,stroke-width:2px,color:#fff
+```
 
-- **Machine Learning**: CS229 (Supervised/Unsupervised), CS221 (AI Principles)
-- **Deep Learning**: CS230 (Deep Learning), CS231n (Computer Vision)
-- **NLP & Reasoning**: CS224N (NLP w/ Deep Learning), CS336 (LLM Systems)
-- **Reinforcement Learning**: CS234
+> **"The Spectral Approach"**: Deconstructing complex intelligence into fundamental frequencies. My methodology fuses **mathematical rigor** with **software craftsmanship**—building systems that are not just theoretically sound, but robustly scalable. I operate at the intersection of **Deep Learning**, **Systems Engineering**, and **Cognitive Science**.
 
 ---
 
@@ -121,7 +131,7 @@ I am pursuing a self-directed, rigorous computer science curriculum based on Sta
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DaviBonetto&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0A66C2&icon_color=00D4FF&text_color=FFFFFF" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com/?user=DaviBonetto&theme=react&hide_border=true&background=0D1117&stroke=0A66C2&ring=00D4FF&fire=00D4FF&currStreakLabel=FFFFFF" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DaviBonetto&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" height="150" alt="trophies" />
 </div>
 
 ---
