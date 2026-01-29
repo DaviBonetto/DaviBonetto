@@ -106,24 +106,30 @@ graph TD
 
 ---
 
-## 🧬 Research Philosophy
+## 🧬 Engineering Methodology
 
 ```mermaid
 graph TD
-    subgraph S1 [The Cognitive Flywheel]
-    A[🔎 First Principles] -->|Deconstruction| B(🧠 Theoretical Model)
-    B -->|Synthesis| C{🧪 Rigorous Experimentation}
-    C -->|Validation| D[🚀 Scalable System]
-    D -->|Feedback| A
+    subgraph S1 [The Spectral Engine]
+    P(⚡ Complex Signal) -->|Deconstruction| D{💎 First Principles}
+    D -->|Architect| A[🏗️ L1-L5 Stack]
+    A -->|Implement| S[🚀 Scalable Production]
+    S -->|Telemetry| P
     end
     style S1 fill:#0D1117,stroke:#30363d,stroke-width:1px
-    style A fill:#0D1117,stroke:#00D4FF,stroke-width:2px,color:#fff
-    style B fill:#0D1117,stroke:#0A66C2,stroke-width:2px,color:#fff
-    style C fill:#0D1117,stroke:#A371F7,stroke-width:2px,color:#fff
-    style D fill:#0D1117,stroke:#2EA043,stroke-width:2px,color:#fff
+    style P fill:#0D1117,stroke:#A371F7,stroke-width:2px,color:#fff
+    style D fill:#0D1117,stroke:#00D4FF,stroke-width:2px,color:#fff
+    style A fill:#0D1117,stroke:#0A66C2,stroke-width:2px,color:#fff
+    style S fill:#0D1117,stroke:#2EA043,stroke-width:2px,color:#fff
 ```
 
-> **"The Spectral Approach"**: Deconstructing complex intelligence into fundamental frequencies. My methodology fuses **mathematical rigor** with **software craftsmanship**—building systems that are not just theoretically sound, but robustly scalable. I operate at the intersection of **Deep Learning**, **Systems Engineering**, and **Cognitive Science**.
+### **The Spectral Approach**
+
+I decompose intelligence into "fundamental frequencies"—isolating core constraints (First Principles) before writing a single line of code. This ensures every system I build is grounded in physics and logic, not just hype. **I don't just glue APIs; I architect vertically integrated systems.**
+
+From the low-level settlement layers (**L1**) and compute transport (**L2**) up to agentic cognition (**L4**) and sensory perception (**L5**), I engineer for reliability and scale. My code is the bridge between high-dimensional theory and low-latency production.
+
+> _"True innovation sits at the edge of theory and production. My goal is to compress the timeline between 'reading a paper' and 'shipping a feature,' delivering rigorous AI systems that survive user contact."_
 
 ---
 
