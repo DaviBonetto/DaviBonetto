@@ -125,7 +125,7 @@ graph TD
 
 ### **The Spectral Approach**
 
-I decompose intelligence into "fundamental frequencies"—isolating core constraints (First Principles) before writing a single line of code. This ensures every system I build is grounded in physics and logic, not just hype. **I don't just glue APIs; I architect vertically integrated systems.**
+I decompose intelligence into "fundamental frequencies" isolating core constraints (First Principles) before writing a single line of code. This ensures every system I build is grounded in physics and logic, not just hype. **I don't just glue APIs; I architect vertically integrated systems.**
 
 From the low-level settlement layers (**L1**) and compute transport (**L2**) up to agentic cognition (**L4**) and sensory perception (**L5**), I engineer for reliability and scale. My code is the bridge between high-dimensional theory and low-latency production.
 
@@ -138,6 +138,7 @@ From the low-level settlement layers (**L1**) and compute transport (**L2**) up 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DaviBonetto&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0A66C2&icon_color=00D4FF&text_color=FFFFFF" height="150" alt="stats graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Commit Graph" />
 </div>
 
 ---
