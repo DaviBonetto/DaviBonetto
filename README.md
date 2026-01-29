@@ -42,39 +42,39 @@ I build in public, contribute to open source, and continuously study advanced to
 
 My engineering philosophy is organized into a 5-layer cognitive stack, designed to separate concerns from sensory perception to immutable settlement.
 
-```text
-       [ L5: Perception & Interface Layer ] 👁️
-      +--------------------------------------+
-      |    Human-Machine Interaction (CV)    |
-      |         Sensory Input Stream         |
-      +--------------------------------------+
-                         |
-                         v
-       [ L4: Agentic Cognition Layer ] 🤖
-      +--------------------------------------+
-      |      Autonomous Agents & LLMs        |
-      |      Reasoning & Orchestration       |
-      +--------------------------------------+
-                         |
-                         v
-       [ L3: Semantic Memory Layer ] 📚
-      +--------------------------------------+
-      |    RAG / Vector DB / Long-term CX    |
-      |         Knowledge Retrieval          |
-      +--------------------------------------+
-                         v
-     [ L2: Transport & Compute Layer ] ⚡
-      +--------------------------------------+
-      |     High-Perf APIs / Rust / Warp     |
-      |        GENESIS System Gateway        |
-      +--------------------------------------+
-                         |
-                         v
-       [ L1: Settlement & Trust Layer ] 🔒
-      +--------------------------------------+
-      |     Blockchain / Smart Contracts     |
-      |    HELIOS System / Truth Anchor      |
-      +--------------------------------------+
+```mermaid
+graph TD
+    subgraph L5 [L5: Perception & Interface Layer  👁️]
+        HMI(Human-Machine Interaction - CV/Voice)
+    end
+
+    subgraph L4 [L4: Agentic Cognition Layer  🤖]
+        Agents(Autonomous Agents & Orchestration)
+    end
+
+    subgraph L3 [L3: Semantic Memory Layer  📚]
+        Memory(RAG / Vector DB / Long-term Context)
+    end
+
+    subgraph L2 [L2: Transport & Compute Layer  ⚡]
+        Compute(High-Perf APIs / Rust / GENESIS Gateway)
+    end
+
+    subgraph L1 [L1: Settlement & Trust Layer  🔒]
+        Trust(Blockchain / HELIOS System / Truth Anchor)
+    end
+
+    L5 -->|Processing Stream/Input| L4
+    L4 -->|Decision Context/Reasoning| L3
+    L3 -->|Knowledge Retrieval| L4
+    L4 -->|Action/Instruction| L2
+    L2 -->|Immutable Settlement| L1
+
+    style L5 fill:#0A66C2,stroke:#fff,stroke-width:2px,color:#fff
+    style L4 fill:#E63946,stroke:#fff,stroke-width:2px,color:#fff
+    style L3 fill:#F4A261,stroke:#fff,stroke-width:2px,color:#fff
+    style L2 fill:#2A9D8F,stroke:#fff,stroke-width:2px,color:#fff
+    style L1 fill:#264653,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
 ---
