@@ -141,6 +141,8 @@ From the low-level settlement layers (**L1**) and compute transport (**L2**) up 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Productive Time" />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Repos Per Language" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Most Commit Language" />
 </div>
 
 ---
