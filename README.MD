@@ -103,6 +103,11 @@ graph TD
 </td>
 <td width="45%" valign="top">
 
+### 🔮 Spectral Vision
+
+<img src="./assets/spectral_quote.png" width="100%" alt="Spectral Philosophy" />
+<br>
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBonetto&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=00D4FF&text_color=FFFFFF" height="150" alt="top languages" />
 <br>
