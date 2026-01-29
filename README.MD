@@ -88,6 +88,11 @@ graph TD
 ### **Interface & Web**
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,figma&theme=dark" alt="Web Stack" />
+<br>
+
+### **DevOps & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,kubernetes,terraform,jenkins,githubactions&theme=dark" alt="DevOps Stack" />
 
 </td>
 <td width="45%" valign="top">
@@ -141,7 +146,7 @@ From the low-level settlement layers (**L1**) and compute transport (**L2**) up 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Productive Time" />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Repos Per Language" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Most Commit Language" />
 </div>
 
