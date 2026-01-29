@@ -137,7 +137,9 @@ From the low-level settlement layers (**L1**) and compute transport (**L2**) up 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DaviBonetto&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0A66C2&icon_color=00D4FF&text_color=FFFFFF" height="150" alt="stats graph" />
+  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Productive Time" />
+  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviBonetto&theme=github_dark&utcOffset=-3" height="150" alt="Repos Per Language" />
 </div>
 
