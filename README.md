@@ -44,44 +44,30 @@ My engineering philosophy is organized into a 5-layer cognitive stack, designed 
 
 ```mermaid
 graph TD
-    subgraph L5 [L5: Perception & Interface Layer  👁️]
-        HMI(Human-Machine Interaction - CV/Voice)
-    end
+    %% Nodes
+    L5("L5: Perception & Interface<br>(CV / Voice / Sensory)"):::percept
+    L4("L4: Agentic Cognition<br>(Autonomous Agents / reasoning)"):::agent
+    L3("L3: Semantic Memory<br>(RAG / Vector DB / Context)"):::memory
+    L2("L2: Transport & Compute<br>(Rust / APIs / Gateway)"):::compute
+    L1("L1: Settlement & Trust<br>(Blockchain / Truth Anchor)"):::trust
 
-    subgraph L4 [L4: Agentic Cognition Layer  🤖]
-        Agents(Autonomous Agents & Orchestration)
-    end
+    %% Flow
+    L5 --> L4
+    L3 --> L4
+    L4 --> L2
+    L2 --> L1
 
-    subgraph L3 [L3: Semantic Memory Layer  📚]
-        Memory(RAG / Vector DB / Long-term Context)
-    end
-
-    subgraph L2 [L2: Transport & Compute Layer  ⚡]
-        Compute(High-Perf APIs / Rust / GENESIS Gateway)
-    end
-
-    subgraph L1 [L1: Settlement & Trust Layer  🔒]
-        Trust(Blockchain / HELIOS System / Truth Anchor)
-    end
-
-    L5 -->|Processing Stream/Input| L4
-    L4 -->|Decision Context/Reasoning| L3
-    L3 -->|Knowledge Retrieval| L4
-    L4 -->|Action/Instruction| L2
-    L2 -->|Immutable Settlement| L1
-
-    style L5 fill:#0A66C2,stroke:#fff,stroke-width:2px,color:#fff
-    style L4 fill:#E63946,stroke:#fff,stroke-width:2px,color:#fff
-    style L3 fill:#F4A261,stroke:#fff,stroke-width:2px,color:#fff
-    style L2 fill:#2A9D8F,stroke:#fff,stroke-width:2px,color:#fff
-    style L1 fill:#264653,stroke:#fff,stroke-width:2px,color:#fff
+    %% Styling
+    classDef percept fill:#0A66C2,stroke:#fff,stroke-width:2px,color:#fff
+    classDef agent fill:#E63946,stroke:#fff,stroke-width:2px,color:#fff
+    classDef memory fill:#F4A261,stroke:#fff,stroke-width:2px,color:#fff
+    classDef compute fill:#2A9D8F,stroke:#fff,stroke-width:2px,color:#fff
+    classDef trust fill:#264653,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
 ---
 
 ## 🛠️ Technical Arsenal
-
-<div align="center">
 
 ### **Core & Compute**
 
@@ -98,8 +84,6 @@ graph TD
 ### **Interface & Web**
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,figma&theme=dark" alt="Web Stack" />
-
-</div>
 
 ---
 
@@ -125,8 +109,18 @@ I am pursuing a self-directed, rigorous computer science curriculum based on Sta
 
 ---
 
+## 🌩️ Engineering Metrics
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviBonetto&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0A66C2&icon_color=00D4FF&text_color=FFFFFF" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviBonetto&theme=react&hide_border=true&background=0D1117&stroke=0A66C2&ring=00D4FF&fire=00D4FF&currStreakLabel=FFFFFF" height="150" alt="streak graph" />
+</div>
+
+---
+
 <div align="center">
-    <i>"Building the future, one commit at a time."</i>
+    <i>"The best way to predict the future is to invent it."</i><br>
+    <b>- Alan Kay</b>
     <br><br>
     <a href="https://github.com/DaviBonetto">
         <img src="https://komarev.com/ghpvc/?username=DaviBonetto&style=flat-square&color=0A66C2" alt="Profile Views"/>
