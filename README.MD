@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝      ╚═╝    ╚═════╝
 ```
 
-### AI Engineer | Researcher | Open Source Builder
+### AI Engineer | Open Source Builder
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-bonetto-a4a795350/">
