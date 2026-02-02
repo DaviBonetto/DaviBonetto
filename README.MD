@@ -44,7 +44,7 @@ I don't just study AI I engineer it, ship it, and prove it works at scale.
 
 ---
 
-## 🧠 System Architecture Strategy
+## 🧠 System Architecture Strateg
 
 My engineering philosophy is organized into a 5-layer cognitive stack, designed to separate concerns from sensory perception to immutable settlement.
 
