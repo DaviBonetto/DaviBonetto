@@ -30,7 +30,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About M
 
 I'm an **AI Engineer** building production intelligent systems from first principles. My approach what I call **Spectral Engineering** treats complex AI problems like signal processing: decompose into fundamental frequencies, architect in layers, ship to production.
 
