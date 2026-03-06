@@ -32,15 +32,16 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI Engineer** building production intelligent systems from first principles. My approach what I call **Spectral Engineering** treats complex AI problems like signal processing: decompose into fundamental frequencies, architect in layers, ship to production.
+I'm an ML researcher and AI Engineer focused on 
+adversarial robustness in recurrent foundation models.
 
-**Current mission:** Validating a methodology designed to scale across 300+ AI implementations through a portfolio of 52 specialized projects. From RAG pipelines and autonomous agents to blockchain-anchored truth systems, I operate across the full stack (Rust, Python, LLMs, Vector DBs, Web3).
+My recent work — SpectralGuard — identifies and defends 
+against Hidden State Poisoning Attacks (HiSPA) in 
+Mamba-based State Space Models, proving that spectral 
+radius monitoring provides a principled, real-time 
+safety layer for SSM deployments.
 
-I contribute to **FreeCodeCamp**, build in public, and document every system I ship.
-
-**My stack:** L1 (Settlement/Blockchain) → L2 (Transport/APIs) → L3 (Semantic Memory/RAG) → L4 (Agentic Cognition) → L5 (Perception/Interface)
-
-I don't just study AI I engineer it, ship it, and prove it works at scale.
+I build in public: research, systems, and production AI.
 
 ---
 
