@@ -30,7 +30,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About M
 
 I'm an ML researcher and AI Engineer focused on 
 adversarial robustness in recurrent foundation models.
