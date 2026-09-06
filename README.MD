@@ -1,21 +1,17 @@
 <img align="left" src="./assets/ascii-portrait.png" width="40%" alt="ASCII portrait of Davi Bonetto" />
 
-<br>
-
-<h3>
-  &emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<a href="https://github.com/DaviBonetto">davi@github</a>
-</h3>
-
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<samp>──────────────────────────────────────</samp><br>
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp><br>
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>field&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;machine learning<br>
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>focus&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;robust AI systems<br>
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>research</code>&nbsp;&nbsp;state-space models<br>
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>systems&nbsp;</code>&nbsp;&nbsp;agents / robotics<br>
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>code&nbsp;&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;python / rust / c++ / ts<br>
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>location</code>&nbsp;&nbsp;brazil<br>
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>status&nbsp;&nbsp;</code>&nbsp;&nbsp;researcher / builder<br>
-&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>web&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;coming soon
+> ### [davi@github](https://github.com/DaviBonetto)
+>
+> ---
+>
+> `field   `&nbsp;&nbsp;machine learning  
+> `focus   `&nbsp;&nbsp;robust AI systems  
+> `research`&nbsp;&nbsp;state-space models  
+> `systems `&nbsp;&nbsp;agents / robotics  
+> `code    `&nbsp;&nbsp;python / rust / c++ / ts  
+> `location`&nbsp;&nbsp;brazil  
+> `status  `&nbsp;&nbsp;researcher / builder  
+> `web     `&nbsp;&nbsp;coming soon
 
 <br clear="left">
 
