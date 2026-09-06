@@ -1,4 +1,4 @@
-<img align="left" src="./assets/ascii-portrait.png" width="34%" alt="ASCII portrait of Davi Bonetto" />
+<img align="left" src="./assets/ascii-portrait.png" width="40%" alt="ASCII portrait of Davi Bonetto" />
 
 <br>
 
