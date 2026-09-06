@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-card.svg" width="100%" alt="Davi Bonetto — machine learning, AI systems and robotics" />
+  <img src="./assets/profile-card.png" width="100%" alt="Davi Bonetto — machine learning, AI systems and robotics" />
 </p>
 
 <p align="center">
