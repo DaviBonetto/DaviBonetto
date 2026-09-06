@@ -3,19 +3,19 @@
 <br>
 
 <h3>
-  &emsp;&emsp;&emsp;<a href="https://github.com/DaviBonetto">davi@github</a>
+  &emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<a href="https://github.com/DaviBonetto">davi@github</a>
 </h3>
 
-&emsp;&emsp;&emsp;<samp>──────────────────────────────────────</samp><br><br>
-
-&emsp;&emsp;&emsp;<code>field&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;machine learning<br>
-&emsp;&emsp;&emsp;<code>focus&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;robust AI systems<br>
-&emsp;&emsp;&emsp;<code>research</code>&nbsp;&nbsp;state-space models<br>
-&emsp;&emsp;&emsp;<code>systems&nbsp;</code>&nbsp;&nbsp;agents / robotics<br>
-&emsp;&emsp;&emsp;<code>code&nbsp;&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;python / rust / c++ / ts<br>
-&emsp;&emsp;&emsp;<code>location</code>&nbsp;&nbsp;brazil<br>
-&emsp;&emsp;&emsp;<code>status&nbsp;&nbsp;</code>&nbsp;&nbsp;researcher / builder<br>
-&emsp;&emsp;&emsp;<code>web&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;coming soon
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<samp>──────────────────────────────────────</samp><br>
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp><br>
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>field&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;machine learning<br>
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>focus&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;robust AI systems<br>
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>research</code>&nbsp;&nbsp;state-space models<br>
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>systems&nbsp;</code>&nbsp;&nbsp;agents / robotics<br>
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>code&nbsp;&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;python / rust / c++ / ts<br>
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>location</code>&nbsp;&nbsp;brazil<br>
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>status&nbsp;&nbsp;</code>&nbsp;&nbsp;researcher / builder<br>
+&emsp;&emsp;&emsp;&emsp;<samp>│</samp>&emsp;<code>web&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;coming soon
 
 <br clear="left">
 
