@@ -1,17 +1,19 @@
 <img align="left" src="./assets/ascii-portrait.png" width="40%" alt="ASCII portrait of Davi Bonetto" />
 
-> ### [davi@github](https://github.com/DaviBonetto)
->
-> ---
->
-> `field   `&nbsp;&nbsp;machine learning  
-> `focus   `&nbsp;&nbsp;robust AI systems  
-> `research`&nbsp;&nbsp;state-space models  
-> `systems `&nbsp;&nbsp;agents / robotics  
-> `code    `&nbsp;&nbsp;python / rust / c++ / ts  
-> `location`&nbsp;&nbsp;brazil  
-> `status  `&nbsp;&nbsp;researcher / builder  
-> `web     `&nbsp;&nbsp;coming soon
+<br><br>
+
+### [davi@github](https://github.com/DaviBonetto)
+
+---
+
+`field   `&nbsp;&nbsp;machine learning  
+`focus   `&nbsp;&nbsp;robust AI systems  
+`research`&nbsp;&nbsp;state-space models  
+`systems `&nbsp;&nbsp;agents / robotics  
+`code    `&nbsp;&nbsp;python / rust / c++ / ts  
+`location`&nbsp;&nbsp;brazil  
+`status  `&nbsp;&nbsp;researcher / builder  
+`web     `&nbsp;&nbsp;coming soon
 
 <br clear="left">
 
